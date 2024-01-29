@@ -1,5 +1,24 @@
 [
   {
+    "exp": "MulanPSL-1.0",
+    "names": [
+      "Mulan Permissive Software License，Version 1"
+    ]
+  },
+  {
+    "exp": "OGC-1.0",
+    "names": [
+      "OGC copyright"
+    ]
+  },
+  {
+    "exp": "CC-PDDC",
+    "names": [
+      "Public Domain",
+      "Public Domain, per Creative Commons CC0"
+    ]
+  },
+  {
     "exp": "Apache-1.0",
     "names": [
       "Apache License",
@@ -38,7 +57,9 @@
       "BSD 2-Clause License",
       "The BSD 2-Clause License",
       "The 2-Clause BSD License",
-      "Two-clause BSD-style license"
+      "Two-clause BSD-style license",
+      "Simplified BSD License",
+      "FreeBSD License"
     ]
   },
   {
@@ -62,7 +83,13 @@
       "EDL 1.0",
       "Eclipse Distribution License - v 1.0",
       "Eclipse Distribution License v. 1.0",
-      "Eclipse Distribution License v1.0"
+      "Eclipse Distribution License v1.0",
+      "BSD License 2.0",
+      "BSD",
+      "BSD License 3",
+      "BSD-new",
+      "BSD-3",
+      "3-clause BSD"
     ]
   },
   {
@@ -94,7 +121,9 @@
     "exp": "(CDDL-1.0 OR GPL-2.0-with-classpath-exception)",
     "names": [
       "CDDL + GPLv2 with classpath exception",
-      "CDDL/GPLv2+CE"
+      "CDDL/GPLv2+CE",
+      "Dual license consisting of the CDDL v1.1 and GPL v2 ",
+      "CDDL or GPLv2 with exceptions"
     ]
   },
   {
@@ -120,7 +149,8 @@
       "Eclipse Public License, Version 1.0",
       "Eclipse Public License - v 1.0",
       "Eclipse Public License - v1.0",
-      "Eclipse Public License (EPL), Version 1.0"
+      "Eclipse Public License (EPL), Version 1.0",
+      "EPL 1.0"
     ]
   },
   {
@@ -132,7 +162,9 @@
       "Eclipse Public License v2.0",
       "Eclipse Public License, Version 2.0",
       "The Eclipse Public License Version 2.0",
-      "Eclipse Public License v. 2.0"
+      "Eclipse Public License v. 2.0",
+      "Eclipse Public License (EPL) 2.0",
+      "Eclipse Public License - v2.0"
     ]
   },
   {
@@ -153,7 +185,9 @@
       "GNU General Public License (GPL) version 2",
       "GNU General Public License (GPL) version 2.0",
       "GNU General Public License v2",
-      "GNU General Public License v2.0"
+      "GNU General Public License v2.0",
+      "GNU General Public Library",
+      "The GNU General Public License, Version 2"
     ]
   },
   {
@@ -190,7 +224,9 @@
       "GNU Lesser General Public License (LGPL), version 2 or later",
       "GNU Lesser General Public License (LGPL), version 2.0 or later",
       "GNU Lesser General Public License v2 or later",
-      "GNU Lesser General Public License v2.0 or later"
+      "GNU Lesser General Public License v2.0 or later",
+      "GNU LESSER GENERAL PUBLIC LICENSE",
+      "GNU Lesser Public License"
     ]
   },
   {
@@ -222,7 +258,8 @@
       "LGPL3.0",
       "GNU Lesser General Public License (LGPL), version 3",
       "GNU Lesser General Public License (LGPL), version 3.0",
-      "GNU Lesser General Public License v3.0"
+      "GNU Lesser General Public License v3.0",
+      "LGPL 3.0 license"
     ]
   },
   {
@@ -238,6 +275,7 @@
     "exp": "MIT",
     "names": [
       "MIT License",
+      "MIT License (MIT)",
       "The MIT License",
       "The MIT License (MIT)"
     ]
